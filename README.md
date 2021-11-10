@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JITUdo-DEV
-- 👀 I’m interested in Full-stack Web development, blender scripting
-- 🌱 I’m currently learning Full stack Web Development, Blender 3D & Blender scripting
-- 🌌 I’m looking to collaborate on Full stack Web development
+- 👋 Hi, I’m Jitendra Seervi @JITUdo-DEV
+- 👀 I’m interested in full-stack development, blender scripting
+- 🌱 I’m currently learning full-stack Development, Blender 3D & Blender scripting
+- 🌌 I’m looking to collaborate on Full-stack development
 - 📫 You can reach me on jitudo.dev@gmail.com 
