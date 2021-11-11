@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jitendra Seervi @JITUdo-DEV
+- 👋 Hi, I’m Jitendra Seervi @JITUdo-DEv
 - 👀 I’m interested in full-stack development, blender scripting
 - 🌱 I’m currently learning full-stack Development, Blender 3D & Blender scripting
 - 🌌 I’m looking to collaborate on Full-stack development
